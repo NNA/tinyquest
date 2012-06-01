@@ -1,0 +1,26 @@
+{
+  "name": "tinyquest",
+  "version": "0.0.1",
+  "author": "nna",
+  "keywords": "game kids quest 2D",
+  "description": "2D game for kids",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/github/hubot/raw/master/LICENSE"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nna/tinyquest.git"
+  },
+  "devDependencies": {
+    "coffee-script": "=1.3.1",
+    "mocha":"=1.0.1",
+    "should": "= 0.6.1",
+    "sinon": "",
+    "request": ""
+  },
+  "main": "./bin/init.js",
+  "engine": "node > 0.6.0 < 0.7.0"
+}

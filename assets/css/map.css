@@ -1,0 +1,47 @@
+.map {
+  font-size: 0px;
+  width: 960px;
+}
+
+.map-row {
+  margin-bottom: -45px;
+}
+
+.map-row span {
+  display: inline-block;
+  width: 51px;
+  height: 86px;
+}
+
+.water {
+  background: url(../img/Water%20Block.png);
+}
+
+.grass {
+  background: url(../img/Grass%20Block.png);
+}
+
+.dirt {
+  background: url(../img/Dirt%20Block.png);
+}
+
+.bridge {
+  background: url(../img/Wood%20Block.png);
+}
+
+.player, .monster, .chest {
+  position: relative;
+  bottom: 20px;
+}
+
+.player {
+  background: url(../img/Character%20Horn%20Girl.png);
+}
+
+.monster {
+  background: url(../img/Enemy%20Bug%20Right.png);
+}
+
+.chest {
+  background: url(../img/Chest%20Closed.png);
+}

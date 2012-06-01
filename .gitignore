@@ -1,1 +1,9 @@
-nodes_modules
+## NPM modules
+node_modules/*
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out

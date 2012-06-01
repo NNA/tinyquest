@@ -17,6 +17,7 @@ npm install
 ``` shell 
 gem install foreman
 ```
+
 ## Play the Game (on local server)
 * Start Server: `foreman start`
 * Browse to url: `localhost:5000`
